@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thewebbrewery
+- 👋 Hi, I’m Jatin
 - 👀 I’m interested in Web Development and Web3
 - 🌱 I’m currently learning Web Development from Udemy Course and other resources
 - 💞️ I’m looking to collaborate on Web3 and technology
