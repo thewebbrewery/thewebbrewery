@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **The Complete 2022 Web Development Bootcamp From Udemy.com**
 
-- 👨‍💻 This is my recent project [https://thewebbrewery.github.io/tindog-website/](https://thewebbrewery.github.io/tindog-website/)
+- 👨‍💻 This is my recent project [https://thewebbrewery.github.io/portfolio/](https://thewebbrewery.github.io/portfolio/)
 
 - 📫 How to reach me **jatin011101@gmail.com**
 
